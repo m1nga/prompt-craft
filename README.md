@@ -59,7 +59,7 @@ Probed 9 scenarios across 7 personas · 5 fired correctly · 2 correctly stayed 
 >
 > **"先别优化了,帮我看下这个报错"** (mid-session pivot) → exited workshop mode immediately and just helped. No format ceremony, no mode trap.
 
-Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe)
+Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 
 ## Author
 
