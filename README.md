@@ -1,4 +1,4 @@
-# prompt-craft
+# Build Better Prompts for Marketing Work
 
 Turns "write me a prompt for a TikTok ad" into a prompt that carries your brand voice, platform constraints, and banned-word list — with a line-by-line map showing where every detail you said ended up.
 
